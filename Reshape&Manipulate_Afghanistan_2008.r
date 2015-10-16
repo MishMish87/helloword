@@ -14,7 +14,7 @@ library(doBy)
 library(plyr)
 library(Hmisc)
 library(gtools)
-library(readr)
+
 # it is jus a try
 
 setwd("T:/Team_working_folder/D/TEAM_D/2.FOOD_SECURITY/ADePT COUNTRIES/FINAL OUTPUTS/Afghanistan_2007_08/")
